@@ -8,6 +8,6 @@ import { LoginComponent } from './login.component';
     ],
     entryComponents: [
         LoginComponent,
-    ]
+    ],
 })
 export class LoginModule { }
