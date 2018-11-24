@@ -1,0 +1,8 @@
+.c-wrapper {
+    display: flex;
+}
+
+.mod-flex-center-align {
+    justify-content: center;
+    align-items: center;
+}
